@@ -1,0 +1,22 @@
+acceso a base de datos: 
+	Usuario : cristian
+	contraseña: 36429003
+
+
+
+los tipos de servicios son una clases, a partir de ellos se crean los servicios.
+
+A los servicios se le agrega un atributo origen. 
+
+las fechas de inicio y fin son atribuidas a la venta asi cada servicio/paquete puede ser brindado en fechas distitas.
+
+los paquetes se crean junto con la venta, se eligen los servicios y los paquetes se crean.
+
+en cada venta se registra el usuario loggeado.
+
+
+No logre completar la alta baja y modificacion de todos ya que el tiempo no me apremió. Incluso en la eliminación sin por ejemplo existe una venta que me relaciona el cliente o empleado, a ese cliente no lo puedo eliminar con la logica planteada. No llegue con el tiempo para modificarlo.
+
+Se logra hacer Alta, visualización, modificación y eliminación, para los clientes, empleados y servicios siempre y cuando no esten asociados a una venta. 
+
+cuando se elimina el empleado tambien se elimina el usuario asociado.
